@@ -1,27 +1,44 @@
   - 1 00~资料索引 [2]
     - [1.1 English List](/00~资料索引/English-List.md)
     - [1.2 资料汇总](/00~资料索引/资料汇总.md)
-  - 2 01~常用单词 [2]
-    - [2.1 月熊的常用词](/01~常用单词/月熊的常用词.md)
-    - [2.2 计算机常用单词](/01~常用单词/计算机常用单词.md)
-  - 3 02~词组句式 [2]
+  - 2 01~常用单词 [3]
+    - 2.1 单词发音 [2]
+      - 2.1.1 99~参考资料 [1]
+        - [2.1.1.1 2022~中国程序员容易发音错误的单词](/01~常用单词/单词发音/99~参考资料/2022~中国程序员容易发音错误的单词.md)
+      - [2.1.2 月熊的易读错单词](/01~常用单词/单词发音/月熊的易读错单词.md)
+    - [2.2 月熊的常用词](/01~常用单词/月熊的常用词.md)
+    - [2.3 计算机常用单词](/01~常用单词/计算机常用单词.md)
+  - 3 02~词组句式 [3]
     - [3.1 Quotations](/02~词组句式/Quotations.md)
-    - [3.2 词组句式](/02~词组句式/词组句式.md)
+    - [3.2 写作常用句式](/02~词组句式/写作常用句式.md)
+    - [3.3 词组句式](/02~词组句式/词组句式.md)
   - [4 09~阅读写作](/09~阅读写作/README.md)
     
-  - 5 10~口语交流 [1]
-    - [5.1 易读错单词](/10~口语交流/易读错单词.md)
-  - 6 99~参考资料 [1]
-    - 6.1 English Level Up Tips [6]
-      - [6.1.1 understanding](/99~参考资料/English%20Level%20Up%20Tips/1-understanding.md)
-      - [6.1.2 vocabulary](/99~参考资料/English%20Level%20Up%20Tips/2-vocabulary.md)
-      - [6.1.3 listening](/99~参考资料/English%20Level%20Up%20Tips/3-listening.md)
-      - [6.1.4 reading](/99~参考资料/English%20Level%20Up%20Tips/4-reading.md)
-      - [6.1.5 speaking](/99~参考资料/English%20Level%20Up%20Tips/5-speaking.md)
-      - 6.1.6 word list [6]
-        - [6.1.6.1 Go](/99~参考资料/English%20Level%20Up%20Tips/word-list/Go.md)
-        - [6.1.6.2 Java](/99~参考资料/English%20Level%20Up%20Tips/word-list/Java.md)
-        - [6.1.6.3 JavaScript](/99~参考资料/English%20Level%20Up%20Tips/word-list/JavaScript.md)
-        - [6.1.6.4 PHP](/99~参考资料/English%20Level%20Up%20Tips/word-list/PHP.md)
-        - [6.1.6.5 Python](/99~参考资料/English%20Level%20Up%20Tips/word-list/Python.md)
-        - [6.1.6.6 Swift](/99~参考资料/English%20Level%20Up%20Tips/word-list/Swift.md)
+  - [5 10~口语交流](/10~口语交流/README.md)
+    
+  - 6 99~参考资料 [3]
+    - [6.1 A Programmer's Guide to English](/99~参考资料/A%20Programmer's%20Guide%20to%20English/README.md)
+      
+    - 6.2 English Level Up Tips [6]
+      - [6.2.1 understanding](/99~参考资料/English%20Level%20Up%20Tips/1-understanding.md)
+      - [6.2.2 vocabulary](/99~参考资料/English%20Level%20Up%20Tips/2-vocabulary.md)
+      - [6.2.3 listening](/99~参考资料/English%20Level%20Up%20Tips/3-listening.md)
+      - [6.2.4 reading](/99~参考资料/English%20Level%20Up%20Tips/4-reading.md)
+      - [6.2.5 speaking](/99~参考资料/English%20Level%20Up%20Tips/5-speaking.md)
+      - 6.2.6 word list [6]
+        - [6.2.6.1 Go](/99~参考资料/English%20Level%20Up%20Tips/word-list/Go.md)
+        - [6.2.6.2 Java](/99~参考资料/English%20Level%20Up%20Tips/word-list/Java.md)
+        - [6.2.6.3 JavaScript](/99~参考资料/English%20Level%20Up%20Tips/word-list/JavaScript.md)
+        - [6.2.6.4 PHP](/99~参考资料/English%20Level%20Up%20Tips/word-list/PHP.md)
+        - [6.2.6.5 Python](/99~参考资料/English%20Level%20Up%20Tips/word-list/Python.md)
+        - [6.2.6.6 Swift](/99~参考资料/English%20Level%20Up%20Tips/word-list/Swift.md)
+    - [6.3 李笑来~《人人都能用英语》 [9]](/99~参考资料/李笑来~《人人都能用英语》/README.md)
+      - [6.3.1 chapter1](/99~参考资料/李笑来~《人人都能用英语》/chapter1.md)
+      - [6.3.2 chapter2](/99~参考资料/李笑来~《人人都能用英语》/chapter2.md)
+      - [6.3.3 chapter3](/99~参考资料/李笑来~《人人都能用英语》/chapter3.md)
+      - [6.3.4 chapter4](/99~参考资料/李笑来~《人人都能用英语》/chapter4.md)
+      - [6.3.5 chapter5](/99~参考资料/李笑来~《人人都能用英语》/chapter5.md)
+      - [6.3.6 chapter6](/99~参考资料/李笑来~《人人都能用英语》/chapter6.md)
+      - [6.3.7 chapter7](/99~参考资料/李笑来~《人人都能用英语》/chapter7.md)
+      - [6.3.8 chapter8](/99~参考资料/李笑来~《人人都能用英语》/chapter8.md)
+      - [6.3.9 end](/99~参考资料/李笑来~《人人都能用英语》/end.md)
