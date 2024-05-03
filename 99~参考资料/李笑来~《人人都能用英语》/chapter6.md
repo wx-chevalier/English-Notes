@@ -49,7 +49,7 @@
 
 > – My Early Life: A Roving Commission, Thornton Butterworth [UK] and Charles Scribner’s Sons [US], 1930)
 
-而美国总统 Abraham Lincoln 也非常重视语法。 林肯没上过几年学，然而却深信上帝给了他一个使命要他完成。（人群中总是有一些人 —— 绝非多数 —— 存在这种古怪的直觉，不管他们有没有宗教信仰。比如中文作家王朔就曾经如此写道：“我知道我是有来历的，走在芸芸众生中这种感觉尤为强烈……” 我猜这不是王朔在装蛋，他只是很多拥有这种古怪直觉的人之一而已。）
+而美国总统 Abraham Lincoln 也非常重视语法。林肯没上过几年学，然而却深信上帝给了他一个使命要他完成。（人群中总是有一些人 —— 绝非多数 —— 存在这种古怪的直觉，不管他们有没有宗教信仰。比如中文作家王朔就曾经如此写道：“我知道我是有来历的，走在芸芸众生中这种感觉尤为强烈……” 我猜这不是王朔在装蛋，他只是很多拥有这种古怪直觉的人之一而已。）
 
 ![](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/book/everyone-can-use-english/images/figure53.png)
 
