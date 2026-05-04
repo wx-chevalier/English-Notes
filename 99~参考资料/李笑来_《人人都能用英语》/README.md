@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [简介](README.md)
+- [简介](06~杂学/基础学科/English-Notes/99~参考资料/李笑来_《人人都能用英语》/README.md)
 - [第一章：起点](chapter1.md)
 - [第二章：口语](chapter2.md)
 - [第三章：语音](chapter3.md)
