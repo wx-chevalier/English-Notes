@@ -191,7 +191,7 @@ Ronnie 老师有一篇关于记单词的视频，[YouTube 链接](https://www.yo
 - 修改了词牌样式，减小字号，调整背面答案字段顺序等，以适配移动端应用
 - 通过[Localize Media](https://ankiweb.net/shared/info/1293255374)插件离线所有图片等资源。
 
-  > [麦克米伦 7000_a-n.apkg](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/book/English-level-up-tips/麦克米伦7000_imagefix_a-n.apkg)  
+  > [麦克米伦 7000_a-n.apkg](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/book/English-level-up-tips/麦克米伦7000_imagefix_a-n.apkg)
   > [麦克米伦 7000_o-z.apkg](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/book/English-level-up-tips/麦克米伦7000_imagefix_o-z.apkg)
 
 ## 推荐的单词书

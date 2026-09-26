@@ -59,5 +59,3 @@ contingency
 feedback
 
 sinusoidal
-
-

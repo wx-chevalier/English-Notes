@@ -33,4 +33,3 @@ typeof
 undefined
 
 yield
-

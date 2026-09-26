@@ -23,7 +23,7 @@
 - go [əʊ] 从[ə]滑动到[ʊ]
 
 ### 辅音
-- web [w] 类似于汉字"乌" 
+- web [w] 类似于汉字"乌"
 - yes [j] 类似于汉字"衣"
 - father [f] 类似于汉语拼音声母f
 - very [v] 发[f]时声带振动
@@ -99,7 +99,7 @@
 
 - [Speak English With Vanessa](https://www.youtube.com/user/theteachervanessa) Vanessa的表情真的很到位
 
-- [Doing English with Julian Northbrook](https://www.youtube.com/user/doingenglishDOTcom) 
+- [Doing English with Julian Northbrook](https://www.youtube.com/user/doingenglishDOTcom)
 
 - [A.J. Hoge](https://www.youtube.com/c/AJHogeEffortlessEnglish)
 
