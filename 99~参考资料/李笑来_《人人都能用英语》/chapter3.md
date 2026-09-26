@@ -458,8 +458,6 @@ One of our main jobs is to keep detailed records of the migration patterns of ra
 
 需要着重解释的是，所谓的 “失爆”，并不是省略。实际上说话者的口腔内舌头的运动是完整的，/t/或者/d/结束的时候，舌尖还是要顶到牙龈的位置上（如下图所示），只不过，没有气流振动，于是听不到而已。
 
-![](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/book/everyone-can-use-english/images/figure08.png)
-
 最为关键的是，这些因失爆而无法听到的/t/、/d/在语流中依然占据它们原本该拥有的长度。于是，“might be” 并不是读成/maibi:/而是/mai(-)bi:/，(-)的位置上，舌尖定在牙龈上，略作停顿，再发出/bi:/的声音。一定不要忘了停顿，那感觉就好像弹吉他的时候扫弦切音一样。仔细听下面的录音，注意 “might be” 和 “interested in it”。
 
 > You education majors **migh*~~t~~* be** especially **interested in _~~it~~_** because it offers the opportunity to do some teaching — that is, tutoring in math and English.（第 1 篇第 4 句）
